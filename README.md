@@ -3,12 +3,14 @@
 </h1>
 
 <p align="center">
-  <strong>ECE (IoT) Student · Full-Stack Developer · Cloud & IoT Enthusiast</strong>
+  <!-- Dynamic Typing Effect for Vibe -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+ECE+(IoT)+%40+RIT+Roorkee;Tech+Lead+%40+AWS+SBG;Summer+Intern+%40+Prodesk+IT;Bridging+Hardware,+Cloud+%26+Code" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  Building at the intersection of
-  <strong>Software × Electronics × Cloud × AI</strong>
+  <strong>Soldering Wires ⚡ · Deploying Servers ☁️ · Writing Logic 💻</strong>
 </p>
 
 <p align="center">
@@ -18,8 +20,8 @@
   <a href="https://linkedin.com/in/rahul-kumar-894a90207">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rahulraj2392006@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://dev.to/rahul_kumar_aa3e3193abc77">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </p>
 
@@ -29,56 +31,111 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 The Builder Behind the Code
 
-I'm **Rahul Kumar**, an Electronics & Communication Engineering student who enjoys building projects where **software meets hardware**.
+I'm a 2nd-year Electronics & Communication Engineering student who doesn't just write software—I build systems that interact with the real world. From configuring microcontrollers to architecting cloud infrastructure, I focus on the intersection of physical hardware and digital scalability.
 
-- 💻 Full-Stack Web Development
-- ⚙️ IoT & Embedded Systems
-- ☁️ AWS & Cloud Technologies
-- 🤖 AI-powered applications
-- 🚀 Hackathons & real-world projects
-- 🧠 Learning by building
-
-> **Build → Experiment → Learn → Improve**
+- ⚙️ **Currently:** Tech Lead @ AWS SBG | Core Member @ CECP Club
+- 💼 **Experience:** Incoming Summer Intern @ Prodesk IT
+- 🎯 **Focus Areas:** Full-Stack (Django/JS), IoT (ESP32/NodeMCU), Cloud (AWS/GCP), and Computer Vision
+- 🏆 **Hackathon Mindset:** Built systems for *Technomax* and *AI For Bharat*
+- 💡 **Motto:** *Connect the circuit. Deploy the cloud. Change the world.*
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ The Tech Arsenal
 
-### 💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+### 🔌 Hardware & IoT (The ECE Core)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c" />
+  &nbsp; <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/NodeMCU-00BFFF?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/VLSI_Design-8A2BE2?style=for-the-badge" />
 </p>
 
-### ⚛️ Frameworks & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django" />
+### ☁️ Cloud & DevOps (The Scalability)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,ubuntu,git,github" />
 </p>
 
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
-
-### ☁️ Cloud & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vscode" />
-</p>
-
-### 🔌 Electronics & IoT
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+### 💻 Software & Full-Stack (The Logic)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,react,mysql,postgres" />
 </p>
 
 ---
 
-# 📊 GitHub Dashboard
+## 🚀 Featured Engineering Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚗 AUTONIX (Technomax Hackathon)
+Autonomous acoustic fire suppression vehicle. Integrated ESP32-CAM, computer vision, Django servers, and Three.js for 3D real-time visualization.
+
+**Focus**
+`IoT` · `Computer Vision` · `Django`
+
+<a href="https://github.com/Rahul-kumar2309?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ARCHITECTURE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌍 Green Track (AI For Bharat)
+An AI-supported waste management dashboard featuring real-time data synchronization, built during a 24-hour hackathon and deployed via AWS.
+
+**Focus**
+`AWS` · `AI` · `Full-Stack`
+
+<a href="https://github.com/Rahul-kumar2309?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20SYSTEM-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏥 IoT Health Monitor
+Configured NodeMCU ESP8266 to process complex sensor arrays and broadcast live patient health data via the Blynk IoT application layer.
+
+**Focus**
+`NodeMCU` · `Embedded Systems`
+
+<a href="https://github.com/Rahul-kumar2309?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20HARDWARE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🛒 Prodesk E-Commerce System
+A robust full-stack e-commerce architecture developed to hone server-side logic and modern web development practices.
+
+**Focus**
+`Python` · `Web Development`
+
+<a href="https://github.com/Rahul-kumar2309/sprint-6-ecommerce">
+<img src="https://img.shields.io/badge/VIEW%20CODE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 Developer Activity & Stats
 
 <p align="center">
   <img
@@ -93,195 +150,12 @@ I'm **Rahul Kumar**, an Electronics & Communication Engineering student who enjo
 
 <p align="center">
   <img
-    src="https://img.shields.io/github/followers/rahul-kumar2309?style=for-the-badge&logo=github&label=Followers&color=00BFFF"
-  />
-  <img
-    src="https://img.shields.io/github/stars/rahul-kumar2309?style=for-the-badge&logo=github&label=Stars&color=00BFFF"
-  />
-  <img
-    src="https://img.shields.io/github/commit-activity/y/rahul-kumar2309?style=for-the-badge&logo=github&label=Yearly%20Commits&color=00BFFF"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-kumar2309&bg_color=0d1117&color=58a6ff&line=00bfff&point=ffffff&area=true&hide_border=true"
     width="100%"
   />
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🛒 Prodesk E-Commerce
-
-A full-stack e-commerce project developed during the Prodesk project journey.
-
-**Focus**
-
-`Full-Stack` · `Web Development`
-
-<a href="https://github.com/Rahul-kumar2309/sprint-6-ecommerce">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### ⚙️ IoT & Embedded Systems
-
-Practical electronics projects combining microcontrollers, sensors, automation and software.
-
-**Focus**
-
-`ESP32` · `Arduino` · `IoT`
-
-<a href="https://github.com/Rahul-kumar2309?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ☁️ AWS & Cloud
-
-Exploring AWS services and building cloud-connected applications.
-
-**Focus**
-
-`AWS` · `Cloud` · `AI`
-
-<a href="https://github.com/Rahul-kumar2309?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI Applications
-
-Experimenting with Python and AI to build useful intelligent applications.
-
-**Focus**
-
-`Python` · `AI` · `Automation`
-
-<a href="https://github.com/Rahul-kumar2309?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌱 Currently Learning
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
----
-
-# 🎯 Focus Areas
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-<br>
-🌐
-<br><br>
-<strong>Full-Stack</strong>
-<br>
-Modern web applications
-<br><br>
-</td>
-
-<td align="center" width="25%">
-<br>
-⚙️
-<br><br>
-<strong>IoT</strong>
-<br>
-Hardware + Software
-<br><br>
-</td>
-
-<td align="center" width="25%">
-<br>
-☁️
-<br><br>
-<strong>Cloud</strong>
-<br>
-AWS & scalable systems
-<br><br>
-</td>
-
-<td align="center" width="25%">
-<br>
-🤖
-<br><br>
-<strong>AI</strong>
-<br>
-Intelligent applications
-<br><br>
-</td>
-
-</tr>
-</table>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:rahulraj2392006@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/rahul-kumar-894a90207">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/rahul_kumar_2.3">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://dev.to/rahul_kumar_aa3e3193abc77">
-<img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <strong>💙 Thanks for visiting my profile!</strong>
-  <br><br>
-  <i>Build • Learn • Experiment • Create</i>
+  <i>"Hardware makes it possible. Software makes it happen."</i> ⚙️☁️
 </p>
