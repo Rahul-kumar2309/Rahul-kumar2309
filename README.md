@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Dynamic Typing Effect for Vibe -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+ECE+(IoT)+%40+RIT+Roorkee;Tech+Lead+%40+AWS+SBG;Summer+Intern+%40+Prodesk+IT;Bridging+Hardware,+Cloud+%26+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+ECE+%40+RIT+Roorkee;Tech+Lead+%40+AWS+SBG;Summer+Intern+%40+Prodesk+IT;Bridging+Hardware,+Cloud+%26+Code" alt="Typing SVG" />
   </a>
 </p>
 
