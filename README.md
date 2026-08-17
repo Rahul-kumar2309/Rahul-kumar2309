@@ -1,76 +1,79 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h1 align="center">
+  Hi 👋, I'm Rahul Kumar
+</h1>
 
 <p align="center">
   <strong>ECE (IoT) Student · Full-Stack Developer · Cloud & IoT Enthusiast</strong>
 </p>
 
 <p align="center">
-  Building at the intersection of <strong>Software × Electronics × Cloud × AI</strong>
+  Building at the intersection of
+  <strong>Software × Electronics × Cloud × AI</strong>
 </p>
 
 <p align="center">
   <a href="https://rahulkumarportfolio.online/">
-    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rahul-kumar-894a90207">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rahulraj2392006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul-kumar2309&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rahul-kumar2309&label=Profile%20Views&color=00BFFF&style=flat-square" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Rahul Kumar**, an Electronics & Communication Engineering student passionate about building practical technology that connects the digital and physical world.
+I'm **Rahul Kumar**, an Electronics & Communication Engineering student who enjoys building projects where **software meets hardware**.
 
-* 💻 Full-Stack Web Development
-* ⚙️ IoT & Embedded Systems
-* ☁️ AWS & Cloud Technologies
-* 🤖 AI-powered applications
-* 🚀 Hackathons & real-world projects
-* 🧠 Learning by building and experimenting
+- 💻 Full-Stack Web Development
+- ⚙️ IoT & Embedded Systems
+- ☁️ AWS & Cloud Technologies
+- 🤖 AI-powered applications
+- 🚀 Hackathons & real-world projects
+- 🧠 Learning by building
 
-> **Build → Experiment → Learn → Improve → Repeat**
+> **Build → Experiment → Learn → Improve**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages & Development
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
 </p>
 
-### Frameworks & Backend
+### ⚛️ Frameworks & Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
-### Cloud, DevOps & Tools
+### ☁️ Cloud & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vscode" alt="Cloud and Tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vscode" />
 </p>
 
-### Electronics & IoT
+### 🔌 Electronics & IoT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT"/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
 ---
@@ -80,24 +83,23 @@ I'm **Rahul Kumar**, an Electronics & Communication Engineering student passiona
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=rahul-kumar2309&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
-    height="185"
-    alt="Rahul's GitHub Stats"
+    width="48%"
   />
   <img
     src="https://streak-stats.demolab.com?user=rahul-kumar2309&theme=tokyonight&hide_border=true"
-    height="185"
-    alt="Rahul's GitHub Streak"
+    width="48%"
   />
 </p>
 
 <p align="center">
   <img
     src="https://img.shields.io/github/followers/rahul-kumar2309?style=for-the-badge&logo=github&label=Followers&color=00BFFF"
-    alt="Followers"
   />
   <img
     src="https://img.shields.io/github/stars/rahul-kumar2309?style=for-the-badge&logo=github&label=Stars&color=00BFFF"
-    alt="Stars"
+  />
+  <img
+    src="https://img.shields.io/github/commit-activity/y/rahul-kumar2309?style=for-the-badge&logo=github&label=Yearly%20Commits&color=00BFFF"
   />
 </p>
 
@@ -109,53 +111,6 @@ I'm **Rahul Kumar**, an Electronics & Communication Engineering student passiona
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-kumar2309&bg_color=0d1117&color=58a6ff&line=00bfff&point=ffffff&area=true&hide_border=true"
     width="100%"
-    alt="Rahul's Contribution Activity"
-  />
-</p>
-
----
-
-# 💻 Language Statistics
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 📚 Languages by Repository
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul-kumar2309&theme=tokyonight"
-width="100%"
-alt="Languages by Repository"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🔥 Languages by Commit
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-kumar2309&theme=tokyonight"
-width="100%"
-alt="Languages by Commit"
-/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=rahul-kumar2309&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    width="100%"
-    alt="GitHub Trophies"
   />
 </p>
 
@@ -170,15 +125,15 @@ alt="Languages by Commit"
 
 ### 🛒 Prodesk E-Commerce
 
-Full-stack e-commerce project developed during the Prodesk project journey.
+A full-stack e-commerce project developed during the Prodesk project journey.
 
-**Focus:** Full-Stack Development
+**Focus**
 
-<p>
+`Full-Stack` · `Web Development`
+
 <a href="https://github.com/Rahul-kumar2309/sprint-6-ecommerce">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
 </td>
 
@@ -188,13 +143,13 @@ Full-stack e-commerce project developed during the Prodesk project journey.
 
 Practical electronics projects combining microcontrollers, sensors, automation and software.
 
-**Focus:** ESP32 · Arduino · IoT
+**Focus**
 
-<p>
+`ESP32` · `Arduino` · `IoT`
+
 <a href="https://github.com/Rahul-kumar2309?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Projects-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
 </td>
 
@@ -204,33 +159,33 @@ Practical electronics projects combining microcontrollers, sensors, automation a
 
 <td width="50%">
 
-### ☁️ Cloud & AWS
+### ☁️ AWS & Cloud
 
-Exploring cloud infrastructure, AWS services and cloud-connected applications.
+Exploring AWS services and building cloud-connected applications.
 
-**Focus:** AWS · Cloud · AI
+**Focus**
 
-<p>
+`AWS` · `Cloud` · `AI`
+
 <a href="https://github.com/Rahul-kumar2309?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore"/>
+<img src="https://img.shields.io/badge/EXPLORE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
 </td>
 
 <td width="50%">
 
-### 🤖 AI-Powered Applications
+### 🤖 AI Applications
 
-Experimenting with Python and AI to build useful and intelligent applications.
+Experimenting with Python and AI to build useful intelligent applications.
 
-**Focus:** Python · AI · Automation
+**Focus**
 
-<p>
+`Python` · `AI` · `Automation`
+
 <a href="https://github.com/Rahul-kumar2309?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore"/>
+<img src="https://img.shields.io/badge/EXPLORE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
 </td>
 
@@ -242,16 +197,16 @@ Experimenting with Python and AI to build useful and intelligent applications.
 # 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge" alt="AI ML"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ---
 
-# 🎯 What I'm Building Toward
+# 🎯 Focus Areas
 
 <table align="center">
 <tr>
@@ -306,19 +261,19 @@ Intelligent applications
 <p align="center">
 
 <a href="mailto:rahulraj2392006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/rahul-kumar-894a90207">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/rahul_kumar_2.3">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://dev.to/rahul_kumar_aa3e3193abc77">
-<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/>
+<img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 
 </p>
